@@ -49,7 +49,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          npm ci
+          npm i
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
