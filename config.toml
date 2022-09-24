@@ -62,7 +62,8 @@ id = "UA-00000000-0"
 [languages.ko]
 title = "ByServices 문서"
 description = "ByServices 문서"
-languageName ="한글"
+languageName ="한국어"
+contentDir = "content/ko"
 # Weight used for sorting.
 weight = 1
 
@@ -72,6 +73,7 @@ description = "Documentation of ByServices"
 languageName ="English"
 # Weight used for sorting.
 weight = 2
+
 # [languages.no]
 # title = "Goldydocs"
 # description = "Docsy er operativsystem for skyen"
