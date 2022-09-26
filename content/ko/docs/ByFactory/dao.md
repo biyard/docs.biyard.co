@@ -1,6 +1,7 @@
 ---
 title: "DAO란?"
 linkTitle: "DAO란?"
+weight: 2
 ---
 
 
