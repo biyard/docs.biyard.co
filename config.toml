@@ -1,9 +1,9 @@
-baseURL = "/"
-title = "Goldydocs"
+baseURL = "/docs"
+title = "ByFactory"
 
 # Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
+contentDir = "content/ko"
+defaultContentLanguage = "ko"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -60,19 +60,19 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.ko]
-title = "ByServices 문서"
-description = "ByServices 문서"
+title = "ByFactory 문서"
+description = "ByFactory 문서"
 languageName ="한국어"
 contentDir = "content/ko"
 # Weight used for sorting.
 weight = 1
 
-[languages.en]
-title = "ByServices Documentation"
-description = "Documentation of ByServices"
-languageName ="English"
-# Weight used for sorting.
-weight = 2
+# [languages.en]
+# title = "ByServices Documentation"
+# description = "Documentation of ByServices"
+# languageName ="English"
+# # Weight used for sorting.
+# weight = 2
 
 # [languages.no]
 # title = "Goldydocs"
