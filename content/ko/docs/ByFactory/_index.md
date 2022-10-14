@@ -6,7 +6,7 @@ description: >
   ByFactory 서비스에 대한 소개
 ---
 
-ByFactory는 우리가 Web 3.0에서 탈중앙화 자율 조직이라 부르는 [DAO(Decentralized Autonomous Organization)](/ko/docs/byfactory/dao/) 만들고 운영할 수 있도록 도와줍니다. ByFactory를 사용하면 누구나 쉽고 간편하게 DAO를 조직하고, 공동체에 합류하고, 조직의 의사 결정에 참여하여 함께 목표를 향해 나아갈 수 있습니다. 블록체인 전문가가 아니더라도 DAO의 규칙을 만들 수 있고 공동체 구성원과 함께 의사 결정을 통해 새로운 규칙을 만들거나 기존의 규칙을 수정할 수 있습니다.
+ByFactory는 우리가 Web 3.0에서 탈중앙화 자율 조직이라 부르는 [DAO(Decentralized Autonomous Organization)](/docs/byfactory/dao/) 만들고 운영할 수 있도록 도와줍니다. ByFactory를 사용하면 누구나 쉽고 간편하게 DAO를 조직하고, 공동체에 합류하고, 조직의 의사 결정에 참여하여 함께 목표를 향해 나아갈 수 있습니다. 블록체인 전문가가 아니더라도 DAO의 규칙을 만들 수 있고 공동체 구성원과 함께 의사 결정을 통해 새로운 규칙을 만들거나 기존의 규칙을 수정할 수 있습니다.
 
 우리는 자율 공동체야말로 Web 3.0 시대에서 개인과 개인, 개인과 사회, 사회와 세상이 소통하는 진정한 방법이라고 믿으며, DAO를 통해 많은 분야에서 세상을 이롭게 할 수 있다고 믿습니다.
 

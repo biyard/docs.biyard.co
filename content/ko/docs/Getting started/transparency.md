@@ -25,9 +25,9 @@ weight: 7
 * SBT를 발행하는 Activity들의 발생 히스토리입니다.
 
 
-![](/ko/docs/images/transparency1.png)
+![](/docs/images/transparency1.png)
 
-![](/ko/docs/images/transparency2.png)
+![](/docs/images/transparency2.png)
 
-![](/ko/docs/images/transparency3.png)
+![](/docs/images/transparency3.png)
 
