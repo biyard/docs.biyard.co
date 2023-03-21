@@ -1,7 +1,7 @@
 ---
 title: "제안하기"
 linkTitle: "제안하기"
-weight: 4
+weight: 5
 ---
 
 ## 제안 리스트

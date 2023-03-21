@@ -1,7 +1,7 @@
 ---
 title: "DAO에 참여하기"
 linkTitle: "DAO에 참여하기"
-weight: 3
+weight: 4
 ---
 
 ## 지갑 연결
